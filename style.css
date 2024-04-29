@@ -9,7 +9,7 @@
 }
 
 body {
-    background-color: #1ce1d1;
+    background-color: #38e488;
 }
 
 .main-content {
@@ -23,13 +23,13 @@ body {
 .left-section {
     grid-column: span 3;
     height: 100%;
-    background-color: #e10dc1;
-    border: 1px solid rgb(15, 131, 177);
+    background-color: #19e062;
+    border: 1px solid rgb(19, 193, 89);
 }
 
 .right-section {
     grid-column: span 4;
-    background-color: #f20eb5;
+    background-color: #0cd864;
     height: 100%;
 }
 
@@ -50,7 +50,7 @@ body {
 .profile img {
     width: 350px;
     border-radius: 10%;
-    border: 3px solid #002333;
+    border: 3px solid #1fd872;
 
 }
 
@@ -65,7 +65,7 @@ body {
 
 .career {
     font-size: 1.5rem;
-    color: #0056c7;
+    color: #0b0c0e;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -138,7 +138,7 @@ body {
     padding-top: 2rem;
     font-size: 1.2rem;
     text-transform: uppercase;
-    color: #f7f7f7;
+    color: #2ee08d;
 }
 
 .right-main-content {
@@ -187,7 +187,7 @@ body {
 }
 
 .tl-content {
-    border-left: 1px solid #ccc;
+    border-left: 1px solid #15c963;
     padding-left: 2rem;
     position: relative;
     padding-bottom: 2rem;
